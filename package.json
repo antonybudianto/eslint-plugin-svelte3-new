@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-svelte3-new",
+  "version": "1.0.0",
+  "description": "An ESLint plugin for Svelte v3 components.",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "svelte",
+    "sveltejs"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sveltejs/eslint-plugin-svelte3.git"
+  },
+  "author": "Conduitry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sveltejs/eslint-plugin-svelte3/issues"
+  },
+  "peerDependencies": {
+    "svelte": "^3.0.0"
+  }
+}
